@@ -26,6 +26,7 @@ namespace HW1
             j = int.Parse(Console.ReadLine());
             Console.WriteLine(process(j));
             Console.ReadKey();
+            
         }
-    }
+    } 
 }
